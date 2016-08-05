@@ -1,0 +1,24 @@
+_repo: Sagradas-Escrituras-Version-Antigua_6528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stendal, Russell
+    alias: Stendal, Russell Martin
+    birthdate: 1955
+    gutenberg_agent_id: '2081'
+    url: http://www.gutenberg.org/2009/agents/2081
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6528'
+language: es
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Bible'
+- !lcc 'BS'
+- GITenberg
+title: Sagradas Escrituras Version Antigua
+url: http://www.gutenberg.org/ebooks/6528
